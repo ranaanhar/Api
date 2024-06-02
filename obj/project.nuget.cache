@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "C6+QUoU9MNusduK5yyOh8i3BsJdgBfPSagamcK0eaNSIyWvE8DseUouuZhB9kKDj0BGjFEOm7/kRI/u2dW4peQ==",
+  "dgSpecHash": "1GAvonKzd7aT1/58K+uB/a0d0rx9dIjiPhw8GEqV0RgmTVpHyrzSd3SZTpw+AvHRO+HvEIfp5vCgA/sBkDELwQ==",
   "success": true,
   "projectFilePath": "/home/rana.anhar/source/repo/quickstart/src/Api/Api.csproj",
   "expectedPackageFiles": [
+    "/home/rana.anhar/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.6/microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
     "/home/rana.anhar/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
   ],
   "logs": []
