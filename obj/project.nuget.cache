@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6+QUoU9MNusduK5yyOh8i3BsJdgBfPSagamcK0eaNSIyWvE8DseUouuZhB9kKDj0BGjFEOm7/kRI/u2dW4peQ==",
+  "success": true,
+  "projectFilePath": "/home/rana.anhar/source/repo/quickstart/src/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/home/rana.anhar/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
